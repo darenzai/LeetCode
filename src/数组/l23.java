@@ -1,4 +1,4 @@
-package Êý×é;
+package æ•°ç»„;
 
 public class l23 {
 	

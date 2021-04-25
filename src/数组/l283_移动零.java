@@ -1,10 +1,10 @@
-package Êı×é;
+package æ•°ç»„;
 
 import java.util.Arrays;
 
 
 
-public class l283_ÒÆ¶¯Áã {
+public class l283_ç§»åŠ¨é›¶ {
 	public void moveZeroes(int[] nums) {
 		if(nums==null) {
 			return ;
